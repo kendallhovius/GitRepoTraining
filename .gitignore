@@ -8,6 +8,7 @@
 
 # User-specific files
 .Ruserdata
+penguins.csv
 
 # Example code in package build process
 *-Ex.R
